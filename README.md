@@ -8,9 +8,7 @@
 
 <!-- subtitle -->
 
-A curated list of learning materials, libraries, tools and other resources for the [Ballerina programming language](https://ballerina.io/)
-
-We welcome contributions from the community!
+A curated list of learning materials, libraries, tools and other resources for the Ballerina programming language.
 
 <!-- image -->
 
