@@ -8,19 +8,23 @@
 
 <!-- subtitle -->
 
-A curated list of learning materials, libraries, tools and other resources for the Ballerina programming language.
+*A curated list of learning materials, libraries, tools and other resources for the Ballerina programming language.*
 
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/NipunaRanasinghe/awesome-ballerina/main/resources/images/awesome-ballerina.jpg " alt="Awesome Ballerina" style="width: 70%;">
+  <img src="https://raw.githubusercontent.com/NipunaRanasinghe/awesome-ballerina/main/resources/images/awesome-ballerina.jpg " alt="Awesome Ballerina" style="width: 30%;">
 </a>
+
+<br>
 
 <!-- description -->
 
-Ballerina is an open-source, cloud-native programming language optimized for integration
+<br>
 
-[Official Ballerina Website](https://ballerina.io/) | [Ballerina GitHub](https://github.com/ballerina-platform/ballerina-lang)
+Ballerina is an open-source and cloud-native programming language, optimized for integrations.
+
+**[Official Ballerina Website](https://ballerina.io/) | [Ballerina on GitHub](https://github.com/ballerina-platform/ballerina-lang)**
 
 </div>
 
